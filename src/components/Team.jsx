@@ -7,7 +7,7 @@ export default function Team() {
                         Our Team
                     </h2>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                        Meet the innovative minds behind FLOORIX technology
+                        Meet the innovative minds behind FLORIX technology
                     </p>
                 </div>
 
@@ -33,8 +33,8 @@ export default function Team() {
                             Visionary leader with expertise in piezoelectric technology and Electronics.
                         </p>
                     </div>
-
-                    {/* AIML Developer */}
+{/* 
+                   
                     <div className="bg-gray-50 rounded-xl p-8 shadow-md flex flex-col items-center">
                         <img
                             src="/myphoto.jpeg"
@@ -57,7 +57,7 @@ export default function Team() {
                         </p>
                     </div>
 
-                    {/* Fullstack Developer */}
+                 
                     <div className="bg-gray-50 rounded-xl p-8 shadow-md flex flex-col items-center">
                         <img
                             src="/people.png"
@@ -77,7 +77,7 @@ export default function Team() {
                         <p className="text-gray-600 text-center">
                             Fullstack developer building our web interfaces and backend systems.
                         </p>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>

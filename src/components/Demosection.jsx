@@ -7,7 +7,7 @@ export default function Demosection() {
                         Technology Demo
                     </h2>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                        Explore how FLOORIX works in real environments through our demo
+                        Explore how FLORIX works in real environments through our demo
                         showcase.
                     </p>
                 </div>

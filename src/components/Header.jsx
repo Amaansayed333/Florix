@@ -10,7 +10,7 @@ export default function Header() {
                 <div className="flex items-center">
                     <img
                         src="/Florix.jpeg"
-                        alt="Floorix Logo"
+                        alt="Florix Logo"
                         className="h-12 w-30 mr-3 mx-7"
                     />
                 </div>

@@ -7,7 +7,7 @@ export default function Applications() {
                         Market Applications
                     </h2>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                        FLOORIX technology has diverse applications across multiple
+                        FLORIX technology has diverse applications across multiple
                         industries, creating value through energy generation and smart
                         monitoring.
                     </p>
